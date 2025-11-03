@@ -2,7 +2,7 @@
 
 🚀 **Full Stack .NET & JavaScript Developer | DevOps Engineer | Cloud Infrastructure Specialist**
 
-I'm a passionate **software engineer** with expertise in building, deploying, and automating scalable web applications. With experience spanning backend, frontend, databases, and DevOps pipelines — I love solving complex problems with clean, modern, and efficient code.
+I'm a passionate **software engineer** with expertise in building, deploying, and automating scalable web applications. With experience spanning backend, frontend, databases, and DevOps pipelines . I love solving complex problems with clean, modern, and efficient code.
 
 ---
 
